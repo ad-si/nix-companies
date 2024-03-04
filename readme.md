@@ -57,7 +57,7 @@ Name (Link to Website)| HQ Location    | Other Functional Languages
 [IO Global]: https://iohk.io
 [Mlabs]: https://mlabs.city
 [Nix.How]: https://nix.how
-[Numtide]: https://numtide.co
+[Numtide]: https://numtide.com
 [Obsidian Systems]: https://obsidian.systems
 [Platonic Systems]: https://platonic.systems
 [Replit]: https://replit.com
