@@ -25,6 +25,7 @@ Name (Link to Career Page) | HQ Location    | Other Pure Languages
 [CircuitHub]          | UK                  | Haskell, Elm
 [Determinate Systems] | USA                 | Rust
 [Dfinity]             | Switzerland, Zürich | Haskell, Rust
+[Feram]               | Germany             | Haskell, Elm, PureScript, Rust
 [FPComplete]          | USA                 | Haskell, Rust
 [Heilmann Software]   | Germany             | Haskell
 [Hercules CI]         | Netherlands         | Haskell
@@ -49,6 +50,7 @@ Name (Link to Career Page) | HQ Location    | Other Pure Languages
 [CircuitHub]: https://circuithub.com
 [Determinate Systems]: https://determinate.systems
 [Dfinity]: https://dfinity.org
+[Feram]: https://www.feram.io
 [FPComplete]: https://www.fpcomplete.com
 [Heilmann Software]: https://www.heilmannsoftware.com
 [Hercules CI]: https://hercules-ci.com
