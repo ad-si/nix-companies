@@ -6,9 +6,9 @@ A curated list of companies using Nix / NixOS in production.
 
 Similar lists for other purely functional languages:
 
-- [github.com/jah2488/elm-companies][elm-companies]
-- [github.com/erkmos/haskell-companies][haskell-companies]
-- [github.com/ajnsit/purescript-companies][purescript-companies]
+- [jah2488/elm-companies][elm-companies]
+- [erkmos/haskell-companies][haskell-companies]
+- [ajnsit/purescript-companies][purescript-companies]
 
 [elm-companies]: https://github.com/jah2488/elm-companies
 [haskell-companies]: https://github.com/erkmos/haskell-companies
@@ -17,7 +17,7 @@ Similar lists for other purely functional languages:
 
 ## Companies
 
-Name (Link to Career Page) | HQ Location    | Other Pure Languages
+Name (Link to Career Page) | HQ Location    | Other Functional Languages
 ---------------------------|----------------|-----------------------------------
 [Anduril]             | USA, California     | Haskell, Rust
 [Arista]              | USA                 | Haskell
