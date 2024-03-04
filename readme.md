@@ -17,8 +17,8 @@ Similar lists for other purely functional languages:
 
 ## Companies
 
-Name (Link to Career Page) | HQ Location    | Other Functional Languages
----------------------------|----------------|-----------------------------------
+Name (Link to Website)| HQ Location    | Other Functional Languages
+----------------------|----------------|-----------------------------------
 [Anduril]             | USA, California     | Haskell, Rust
 [Arista]              | USA                 | Haskell
 [Artificial]          | UK                  | Haskell
