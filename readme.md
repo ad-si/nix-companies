@@ -34,6 +34,7 @@ Name (Link to Website)| HQ Location    | Other Functional Languages
 [Nix.How]             | USA                 |
 [Numtide]             | Switzerland         | Rust
 [Obsidian Systems]    | USA, New York       | Haskell
+[PDT Partners]        | USA, UK             |
 [Platonic Systems]    | USA                 | Haskell, Elm, PureScript
 [Replit]              | USA, California     |
 [Scarf]               | USA                 | Haskell
@@ -59,6 +60,7 @@ Name (Link to Website)| HQ Location    | Other Functional Languages
 [Nix.How]: https://nix.how
 [Numtide]: https://numtide.com
 [Obsidian Systems]: https://obsidian.systems
+[PDT Partners]: https://pdtpartners.com
 [Platonic Systems]: https://platonic.systems
 [Replit]: https://replit.com
 [Scarf]: https://scarf.sh
