@@ -27,6 +27,7 @@ Name (Link to Website)| HQ Location    | Other Functional Languages
 [Dfinity]             | Switzerland, Zürich | Haskell, Rust
 [Feram]               | Germany             | Haskell, Elm, PureScript, Rust
 [FPComplete]          | USA                 | Haskell, Rust
+[HAMBS]               | Australia           | Elm
 [Heilmann Software]   | Germany             | Haskell
 [Hercules CI]         | Netherlands         | Haskell
 [IO Global]           | USA, Wyoming        | Haskell, Rust
@@ -53,6 +54,7 @@ Name (Link to Website)| HQ Location    | Other Functional Languages
 [Dfinity]: https://dfinity.org
 [Feram]: https://www.feram.io
 [FPComplete]: https://www.fpcomplete.com
+[HAMBS]: https://www.hambs.com.au
 [Heilmann Software]: https://www.heilmannsoftware.com
 [Hercules CI]: https://hercules-ci.com
 [IO Global]: https://iohk.io
