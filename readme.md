@@ -26,6 +26,7 @@ Name (Link to Website)| HQ Location    | Other Functional Languages
 [Determinate Systems] | USA                 | Rust
 [Dfinity]             | Switzerland, Zürich | Haskell, Rust
 [Feram]               | Germany             | Haskell, Elm, PureScript, Rust
+[Flox]                | USA                 | Rust, JavaScript
 [FPComplete]          | USA                 | Haskell, Rust
 [HAMBS]               | Australia           | Elm
 [Heilmann Software]   | Germany             | Haskell
@@ -53,6 +54,7 @@ Name (Link to Website)| HQ Location    | Other Functional Languages
 [Determinate Systems]: https://determinate.systems
 [Dfinity]: https://dfinity.org
 [Feram]: https://www.feram.io
+[Flox]: https://flox.dev
 [FPComplete]: https://www.fpcomplete.com
 [HAMBS]: https://www.hambs.com.au
 [Heilmann Software]: https://www.heilmannsoftware.com
