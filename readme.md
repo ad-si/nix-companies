@@ -17,7 +17,7 @@ Similar lists for other purely functional languages:
 
 ## Companies
 
-Name (Link to Website)| HQ Location    | Other Functional Languages
+Name (Link to Website)| HQ Location    | Other Languages
 ----------------------|----------------|-----------------------------------
 [Anduril]             | USA, California     | Haskell, Rust
 [Arista]              | USA                 | Haskell
@@ -41,6 +41,7 @@ Name (Link to Website)| HQ Location    | Other Functional Languages
 [Replit]              | USA, California     |
 [Scarf]               | USA                 | Haskell
 [Serokell]            | USA                 | Haskell, Rust
+[Shopify]             | Canada              | Ruby, Go, TypeScript
 [Stack Builders]      | USA                 | Haskell, Ruby
 [TextQL]              | USA                 | Haskell
 [Tweag]               | USA                 | Haskell, Rust
@@ -69,6 +70,7 @@ Name (Link to Website)| HQ Location    | Other Functional Languages
 [Replit]: https://replit.com
 [Scarf]: https://scarf.sh
 [Serokell]: https://serokell.io
+[Shopify]: https://www.shopify.com
 [Stack Builders]: https://www.stackbuilders.com
 [TextQL]: https://www.textql.com
 [Tweag]: https://www.tweag.io
