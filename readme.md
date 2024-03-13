@@ -32,6 +32,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Heilmann Software]   | Germany             | Haskell
 [Hercules CI]         | Netherlands         | Haskell
 [IO Global]           | USA, Wyoming        | Haskell, Rust
+[JusPay]              | India, Bengaluru    | Haskell, PureScript, Rust
 [Mlabs]               | UK                  | Haskell, Rust
 [Nix.How]             | USA                 |
 [Numtide]             | Switzerland         | Rust
@@ -61,6 +62,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Heilmann Software]: https://www.heilmannsoftware.com
 [Hercules CI]: https://hercules-ci.com
 [IO Global]: https://iohk.io
+[JusPay]: https://juspay.in/
 [Mlabs]: https://mlabs.city
 [Nix.How]: https://nix.how
 [Numtide]: https://numtide.com
