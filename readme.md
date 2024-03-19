@@ -28,6 +28,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Feram]               | Germany             | Haskell, Elm, PureScript, Rust
 [Flox]                | USA                 | Rust, JavaScript
 [FPComplete]          | USA                 | Haskell, Rust
+[Glimpse]             | USA, Boston         |
 [HAMBS]               | Australia           | Elm
 [Heilmann Software]   | Germany             | Haskell
 [Hercules CI]         | Netherlands         | Haskell
@@ -58,6 +59,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Feram]: https://www.feram.io
 [Flox]: https://flox.dev
 [FPComplete]: https://www.fpcomplete.com
+[Glimpse]: https://www.glimp.se
 [HAMBS]: https://www.hambs.com.au
 [Heilmann Software]: https://www.heilmannsoftware.com
 [Hercules CI]: https://hercules-ci.com
