@@ -23,6 +23,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Arista]              | USA                 | Haskell
 [Artificial]          | UK                  | Haskell
 [CircuitHub]          | UK                  | Haskell, Elm
+[D. E. Shaw]          | USA                 |
 [Determinate Systems] | USA                 | Rust
 [Dfinity]             | Switzerland, Zürich | Haskell, Rust
 [Feram]               | Germany             | Haskell, Elm, PureScript, Rust
@@ -55,6 +56,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Artificial]: https://artificial.io
 [CircuitHub]: https://circuithub.com
 [Determinate Systems]: https://determinate.systems
+[D. E. Shaw]: https://www.deshaw.com
 [Dfinity]: https://dfinity.org
 [Feram]: https://www.feram.io
 [Flox]: https://flox.dev
