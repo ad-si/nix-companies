@@ -30,6 +30,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Flox]                | USA                 | Rust, JavaScript
 [FPComplete]          | USA                 | Haskell, Rust
 [Glimpse]             | USA, Boston         |
+[Google]              | USA, California     | Haskell, Rust
 [HAMBS]               | Australia           | Elm
 [Heilmann Software]   | Germany             | Haskell
 [Hercules CI]         | Netherlands         | Haskell
@@ -62,6 +63,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Flox]: https://flox.dev
 [FPComplete]: https://www.fpcomplete.com
 [Glimpse]: https://www.glimp.se
+[Google]: https://www.google.com
 [HAMBS]: https://www.hambs.com.au
 [Heilmann Software]: https://www.heilmannsoftware.com
 [Hercules CI]: https://hercules-ci.com
