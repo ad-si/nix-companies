@@ -33,6 +33,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Google]              | USA, California     | Haskell, Rust
 [HAMBS]               | Australia           | Elm
 [Heilmann Software]   | Germany             | Haskell
+[Helsinki Systems]    | Germany             | Rust, Python, Go
 [Hercules CI]         | Netherlands         | Haskell
 [IO Global]           | USA, Wyoming        | Haskell, Rust
 [JusPay]              | India, Bengaluru    | Haskell, PureScript, Rust
@@ -66,6 +67,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Google]: https://www.google.com
 [HAMBS]: https://www.hambs.com.au
 [Heilmann Software]: https://www.heilmannsoftware.com
+[Helsinki Systems]: https://helsinki-systems.de/
 [Hercules CI]: https://hercules-ci.com
 [IO Global]: https://iohk.io
 [JusPay]: https://juspay.in/
