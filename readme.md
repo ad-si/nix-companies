@@ -28,6 +28,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Dfinity]             | Switzerland, Zürich | Haskell, Rust
 [Feram]               | Germany             | Haskell, Elm, PureScript, Rust
 [Flox]                | USA                 | Rust, JavaScript
+[Flyingcircus]        | Germany             | Python
 [FPComplete]          | USA                 | Haskell, Rust
 [Glimpse]             | USA, Boston         |
 [Google]              | USA, California     | Haskell, Rust
@@ -62,6 +63,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Dfinity]: https://dfinity.org
 [Feram]: https://www.feram.io
 [Flox]: https://flox.dev
+[Flyingcircus]: https://flyingcircus.io/
 [FPComplete]: https://www.fpcomplete.com
 [Glimpse]: https://www.glimp.se
 [Google]: https://www.google.com
