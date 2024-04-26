@@ -20,6 +20,7 @@ Similar lists for other purely functional languages:
 Name (Link to Website)| HQ Location    | Other Languages
 ----------------------|----------------|-----------------------------------
 [Anduril]             | USA, California     | Haskell, Rust
+[Applicative Systems] | Germany             | C++, Haskell, Rust, PureScript
 [Arista]              | USA                 | Haskell
 [Artificial]          | UK                  | Haskell
 [CircuitHub]          | UK                  | Haskell, Elm
@@ -53,6 +54,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Well-Typed]          | USA                 | Haskell
 
 [Anduril]: https://www.anduril.com
+[Applicative Systems]: https://applicative.systems
 [Arista]: https://www.arista.com
 [Artificial]: https://artificial.io
 [CircuitHub]: https://circuithub.com
