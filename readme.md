@@ -23,6 +23,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Arista]              | USA                 | Haskell
 [Artificial]          | UK                  | Haskell
 [CircuitHub]          | UK                  | Haskell, Elm
+[Cyberus Technology]  | Germany             | C++, Rust, Haskell
 [D. E. Shaw]          | USA                 |
 [Determinate Systems] | USA                 | Rust
 [Dfinity]             | Switzerland, Zürich | Haskell, Rust
@@ -59,6 +60,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Arista]: https://www.arista.com
 [Artificial]: https://artificial.io
 [CircuitHub]: https://circuithub.com
+[Cyberus Technology]: https://cyberus-technology.de
 [Determinate Systems]: https://determinate.systems
 [D. E. Shaw]: https://www.deshaw.com
 [Dfinity]: https://dfinity.org
