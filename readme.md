@@ -51,6 +51,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Serokell]            | USA                 | Haskell, Rust
 [Shopify]             | Canada              | Ruby, Go, TypeScript
 [Stack Builders]      | USA                 | Haskell, Ruby
+[Supabase]            | USA                 | 
 [TextQL]              | USA                 | Haskell
 [Tweag]               | USA                 | Haskell, Rust
 [Typeable]            | USA                 | Haskell
@@ -87,6 +88,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Serokell]: https://serokell.io
 [Shopify]: https://www.shopify.com
 [Stack Builders]: https://www.stackbuilders.com
+[Supabase]: https://supabase.com/
 [TextQL]: https://www.textql.com
 [Tweag]: https://www.tweag.io
 [Typeable]: https://typeable.io
