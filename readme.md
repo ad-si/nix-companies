@@ -26,6 +26,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [D. E. Shaw]          | USA                 |
 [Determinate Systems] | USA                 | Rust
 [Dfinity]             | Switzerland, Zürich | Haskell, Rust
+[Edgeless Systems]    | Germany             | Go
 [Feram]               | Germany             | Haskell, Elm, PureScript, Rust
 [Flox]                | USA                 | Rust, JavaScript
 [Flyingcircus]        | Germany             | Python
@@ -88,3 +89,4 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Tweag]: https://www.tweag.io
 [Typeable]: https://typeable.io
 [Well-Typed]: https://well-typed.com
+[Edgeless Systems]: https://www.edgeless.systems
