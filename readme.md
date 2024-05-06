@@ -22,6 +22,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Anduril]             | USA, California     | Haskell, Rust
 [Arista]              | USA                 | Haskell
 [Artificial]          | UK                  | Haskell
+[Cachix]              | Estonia             | Haskell, Elm
 [CircuitHub]          | UK                  | Haskell, Elm
 [Cyberus Technology]  | Germany             | C++, Rust, Haskell
 [D. E. Shaw]          | USA                 |
@@ -60,6 +61,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Anduril]: https://www.anduril.com
 [Arista]: https://www.arista.com
 [Artificial]: https://artificial.io
+[Cachix]: https://cachix.org
 [CircuitHub]: https://circuithub.com
 [Cyberus Technology]: https://cyberus-technology.de
 [Determinate Systems]: https://determinate.systems
