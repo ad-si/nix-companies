@@ -51,6 +51,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Scarf]               | USA                 | Haskell
 [Serokell]            | USA                 | Haskell, Rust
 [Shopify]             | Canada              | Ruby, Go, TypeScript
+[Smallbrooks]         | Denmark, Copenhagen | Elm
 [Stack Builders]      | USA                 | Haskell, Ruby
 [Supabase]            | USA                 | 
 [TextQL]              | USA                 | Haskell
@@ -89,6 +90,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Scarf]: https://scarf.sh
 [Serokell]: https://serokell.io
 [Shopify]: https://www.shopify.com
+[Smallbrooks]: https://smallbrooks.com/
 [Stack Builders]: https://www.stackbuilders.com
 [Supabase]: https://supabase.com/
 [TextQL]: https://www.textql.com
