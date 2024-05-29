@@ -20,6 +20,7 @@ Similar lists for other purely functional languages:
 Name (Link to Website)| HQ Location    | Other Languages
 ----------------------|----------------|-----------------------------------
 [Anduril]             | USA, California     | Haskell, Rust
+[Antithesis]          | USA, Virginia       | C/C++, Rust, TypeScript, JavaScript
 [Arista]              | USA                 | Haskell
 [Artificial]          | UK                  | Haskell
 [Cachix]              | Estonia             | Haskell, Elm
@@ -60,6 +61,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Well-Typed]          | USA                 | Haskell
 
 [Anduril]: https://www.anduril.com
+[Antithesis]: https://antithesis.com
 [Arista]: https://www.arista.com
 [Artificial]: https://artificial.io
 [Cachix]: https://cachix.org
