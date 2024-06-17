@@ -42,6 +42,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Hercules CI]         | Netherlands         | Haskell
 [IO Global]           | USA, Wyoming        | Haskell, Rust
 [JusPay]              | India, Bengaluru    | Haskell, PureScript, Rust
+[Mercury]             | USA, California     | Haskell
 [Mlabs]               | UK                  | Haskell, Rust
 [Nix.How]             | USA                 |
 [Numtide]             | Switzerland         | Rust
@@ -54,7 +55,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Shopify]             | Canada              | Ruby, Go, TypeScript
 [Smallbrooks]         | Denmark, Copenhagen | Elm
 [Stack Builders]      | USA                 | Haskell, Ruby
-[Supabase]            | USA                 | 
+[Supabase]            | USA                 | Rust, TypeScript, Go
 [TextQL]              | USA                 | Haskell
 [Tweag]               | USA                 | Haskell, Rust
 [Typeable]            | USA                 | Haskell
@@ -67,9 +68,10 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Cachix]: https://cachix.org
 [CircuitHub]: https://circuithub.com
 [Cyberus Technology]: https://cyberus-technology.de
-[Determinate Systems]: https://determinate.systems
 [D. E. Shaw]: https://www.deshaw.com
+[Determinate Systems]: https://determinate.systems
 [Dfinity]: https://dfinity.org
+[Edgeless Systems]: https://www.edgeless.systems
 [Feram]: https://www.feram.io
 [Flox]: https://flox.dev
 [Flyingcircus]: https://flyingcircus.io/
@@ -82,6 +84,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Hercules CI]: https://hercules-ci.com
 [IO Global]: https://iohk.io
 [JusPay]: https://juspay.in/
+[Mercury]: https://mercury.com
 [Mlabs]: https://mlabs.city
 [Nix.How]: https://nix.how
 [Numtide]: https://numtide.com
@@ -99,4 +102,3 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Tweag]: https://www.tweag.io
 [Typeable]: https://typeable.io
 [Well-Typed]: https://well-typed.com
-[Edgeless Systems]: https://www.edgeless.systems

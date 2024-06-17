@@ -1,0 +1,43 @@
+# References
+
+- Anduril:
+- Antithesis: <https://antithesis.breezy.hr/p/4eece462b5eb-senior-software-engineer>
+- Arista:
+- Artificial:
+- Cachix:
+- CircuitHub:
+- Cyberus Technology:
+- D. E. Shaw:
+- Determinate Systems:
+- Dfinity:
+- Edgeless Systems:
+- Feram:
+- Flox:
+- Flyingcircus:
+- FPComplete:
+- Glimpse: <https://github.com/ad-si/nix-companies/pull/9#issue-2194026011>
+- Google:
+- HAMBS: <https://github.com/ad-si/nix-companies/pull/2#issue-2168464127>
+- Heilmann Software:
+- Helsinki Systems:
+- Hercules CI:
+- IO Global:
+- JusPay: <https://github.com/juspay/jenkins-nix-ci>
+- Mercury: <https://serokell.io/blog/haskell-in-production-mercury>
+- Mlabs:
+- Nix.How:
+- Numtide:
+- Obsidian Systems:
+- PDT Partners:
+- Platonic Systems:
+- Replit:
+- Scarf:
+- Serokell:
+- Shopify:
+- Smallbrooks:
+- Stack Builders:
+- Supabase: https://supabase.com/blog/nix-postgres
+- TextQL:
+- Tweag:
+- Typeable:
+- Well-Typed:
