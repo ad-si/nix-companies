@@ -24,6 +24,7 @@
 - IO Global:
 - JusPay: <https://github.com/juspay/jenkins-nix-ci>
 - Mercury: <https://serokell.io/blog/haskell-in-production-mercury>
+- Monzo: <https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for>
 - Mlabs:
 - Nix.How:
 - Numtide:

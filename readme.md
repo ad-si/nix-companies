@@ -44,6 +44,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [JusPay]              | India, Bengaluru    | Haskell, PureScript, Rust
 [Mercury]             | USA, California     | Haskell
 [Mlabs]               | UK                  | Haskell, Rust
+[Monzo]               | UK, USA             | Python, Java 
 [Nix.How]             | USA                 |
 [Numtide]             | Switzerland         | Rust
 [Obsidian Systems]    | USA, New York       | Haskell
@@ -85,6 +86,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [IO Global]: https://iohk.io
 [JusPay]: https://juspay.in/
 [Mercury]: https://mercury.com
+[Monzo]: https://monzo.com/
 [Mlabs]: https://mlabs.city
 [Nix.How]: https://nix.how
 [Numtide]: https://numtide.com
