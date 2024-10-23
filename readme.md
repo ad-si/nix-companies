@@ -50,6 +50,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Obsidian Systems]    | USA, New York       | Haskell
 [PDT Partners]        | USA, UK             |
 [Platonic Systems]    | USA                 | Haskell, Elm, PureScript
+[Plumelo]             | Romania             | Rust, Typescript, Javascript
 [Replit]              | USA, California     |
 [Scarf]               | USA                 | Haskell
 [Serokell]            | USA                 | Haskell, Rust
@@ -93,6 +94,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Obsidian Systems]: https://obsidian.systems
 [PDT Partners]: https://pdtpartners.com
 [Platonic Systems]: https://platonic.systems
+[Plumelo]: https://plumelo.com
 [Replit]: https://replit.com
 [Scarf]: https://scarf.sh
 [Serokell]: https://serokell.io
