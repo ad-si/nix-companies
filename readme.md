@@ -19,6 +19,7 @@ Similar lists for other purely functional languages:
 
 Name (Link to Website)| HQ Location    | Other Languages
 ----------------------|----------------|-----------------------------------
+[Aeza]                | UK                  | TypeScript, Python, Rust
 [Anduril]             | USA, California     | Haskell, Rust
 [Antithesis]          | USA, Virginia       | C/C++, Rust, TypeScript, JavaScript
 [Arista]              | USA                 | Haskell
@@ -62,6 +63,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Typeable]            | USA                 | Haskell
 [Well-Typed]          | USA                 | Haskell
 
+[Aeza]: https://aeza.net
 [Anduril]: https://www.anduril.com
 [Antithesis]: https://antithesis.com
 [Arista]: https://www.arista.com
