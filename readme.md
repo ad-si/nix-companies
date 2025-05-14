@@ -52,7 +52,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Obsidian Systems]    | USA, New York       | Haskell
 [PDT Partners]        | USA, UK             |
 [Platonic Systems]    | USA                 | Haskell, Elm, PureScript
-[Plumelo]             | Romania             | Rust, TypeScript, Javascript
+[Plumelo]             | Romania             | Rust, TypeScript, JavaScript
 [Replit]              | USA, California     |
 [Scarf]               | USA                 | Haskell
 [Serokell]            | USA                 | Haskell, Rust
