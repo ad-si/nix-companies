@@ -24,6 +24,7 @@
 - Hercules CI:
 - IO Global:
 - JusPay: <https://github.com/juspay/jenkins-nix-ci>
+- Matroid: <https://www.matroid.com/building-a-secure-and-resilient-ai-edge-compute-environment/>
 - Mercury: <https://serokell.io/blog/haskell-in-production-mercury>
 - Monzo: <https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for>
 - Mlabs:

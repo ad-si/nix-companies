@@ -43,6 +43,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Hercules CI]         | Netherlands         | Haskell
 [IO Global]           | USA, Wyoming        | Haskell, Rust
 [JusPay]              | India, Bengaluru    | Haskell, PureScript, Rust
+[Matroid]             | USA, California     | Python, TypeScript, JavaScript
 [Mercury]             | USA, California     | Haskell
 [Mlabs]               | UK                  | Haskell, Rust
 [Monzo]               | UK, USA             | Python, Java 
@@ -51,7 +52,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Obsidian Systems]    | USA, New York       | Haskell
 [PDT Partners]        | USA, UK             |
 [Platonic Systems]    | USA                 | Haskell, Elm, PureScript
-[Plumelo]             | Romania             | Rust, Typescript, Javascript
+[Plumelo]             | Romania             | Rust, TypeScript, JavaScript
 [Replit]              | USA, California     |
 [Scarf]               | USA                 | Haskell
 [Serokell]            | USA                 | Haskell, Rust
@@ -88,6 +89,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Hercules CI]: https://hercules-ci.com
 [IO Global]: https://iohk.io
 [JusPay]: https://juspay.in/
+[Matroid]: https://matroid.com
 [Mercury]: https://mercury.com
 [Monzo]: https://monzo.com/
 [Mlabs]: https://mlabs.city
