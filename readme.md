@@ -26,6 +26,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Artificial]          | UK                  | Haskell
 [Cachix]              | Estonia             | Haskell, Elm
 [CircuitHub]          | UK                  | Haskell, Elm
+[CmdScale]            | Germany             | Go, Rust, TypeScript, Python, C++, C#
 [Cyberus Technology]  | Germany             | C++, Rust, Haskell
 [D. E. Shaw]          | USA                 |
 [Determinate Systems] | USA                 | Rust
@@ -72,6 +73,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Artificial]: https://artificial.io
 [Cachix]: https://cachix.org
 [CircuitHub]: https://circuithub.com
+[CmdScale]: https://cmdscale.com
 [Cyberus Technology]: https://cyberus-technology.de
 [D. E. Shaw]: https://www.deshaw.com
 [Determinate Systems]: https://determinate.systems
