@@ -7,6 +7,7 @@
 - Artificial:
 - Cachix:
 - CircuitHub:
+- CmdScale:
 - Cyberus Technology:
 - D. E. Shaw:
 - Determinate Systems:
