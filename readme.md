@@ -54,6 +54,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Platonic Systems]    | USA                 | Haskell, Elm, PureScript
 [Plumelo]             | Romania             | Rust, TypeScript, JavaScript
 [Replit]              | USA, California     |
+[Ryax]                | France              | Python
 [Scarf]               | USA                 | Haskell
 [Serokell]            | USA                 | Haskell, Rust
 [Shopify]             | Canada              | Ruby, Go, TypeScript
@@ -100,6 +101,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 [Platonic Systems]: https://platonic.systems
 [Plumelo]: https://plumelo.com
 [Replit]: https://replit.com
+[Ryax]: https://ryax.tech
 [Scarf]: https://scarf.sh
 [Serokell]: https://serokell.io
 [Shopify]: https://www.shopify.com
