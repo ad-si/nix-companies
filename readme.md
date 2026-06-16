@@ -114,6 +114,7 @@ Name (Link to Website)| HQ Location    | Other Languages
 
 Name (Link to Website)| HQ Location        | Other Languages
 ----------------------|--------------------|-----------------------------------
+[atvari]              | Germany            | Rust, TypeScript, Python
 [Cachix]              | Estonia            | Haskell, Elm
 [Determinate Systems] | USA                | Rust
 [Garnix]              | USA, San Francisco |
@@ -122,6 +123,7 @@ Name (Link to Website)| HQ Location        | Other Languages
 [Numtide]             | Switzerland        | Rust
 [Tweag]               | USA                 | Haskell, Rust
 
+[atvari]: https://atvari.eu
 [Cachix]: https://cachix.org
 [Determinate Systems]: https://determinate.systems
 [Garnix]: https://garnix.io
