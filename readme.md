@@ -2,9 +2,9 @@
 
 A curated list of companies using Nix / NixOS in production.
 It is divided into two sections:
-One for companies that only use Nix,
-and another for companies that are actively extending it
-and/or providing consulting services for it.
+- [Users](#users): companies that only use Nix
+- [Consultants](#consultants): companies that are actively
+  extending it and/or providing consulting services for it
 
 ---
 
