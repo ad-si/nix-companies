@@ -5,7 +5,7 @@
 - Antithesis: <https://antithesis.breezy.hr/p/4eece462b5eb-senior-software-engineer>
 - Arista:
 - Artificial:
-- atvari:
+- atvari: <https://atvari.eu/nix/>, <https://github.com/atvari-eu>
 - Cachix:
 - CircuitHub:
 - CmdScale:
